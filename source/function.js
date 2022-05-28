@@ -1,0 +1,1 @@
+export const createAdder = a => { return addA = b => { return a + b; } };
